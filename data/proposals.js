@@ -109,6 +109,14 @@ module.exports = [
     ]
   },
   {
+    "title": "Childrens Hospital",
+    "imdb": "tt1325113",
+    "stillWatching": 0,
+    "votes": [
+      "siemiatj"
+    ]
+  },
+  {
     "title": "Chuck",
     "imdb": "tt0934814",
     "stillWatching": 1,
@@ -117,14 +125,6 @@ module.exports = [
       "gstepniewski",
       "scryptonite",
       "tiagomachado"
-    ]
-  },
-  {
-    "title": "Childrens Hospital",
-    "imdb": "tt1325113",
-    "stillWatching": 0,
-    "votes": [
-      "siemiatj"
     ]
   },
   {
@@ -217,13 +217,17 @@ module.exports = [
     "title": "Jessica Jones",
     "imdb": "tt2357547",
     "stillWatching": 1,
-    "votes": ["ryanburgess"]
+    "votes": [
+      "ryanburgess"
+    ]
   },
   {
     "title": "Master of None",
     "imdb": "tt4635276",
     "stillWatching": 1,
-    "votes": ["ryanburgess"]
+    "votes": [
+      "ryanburgess"
+    ]
   },
   {
     "title": "My Name Is Earl",
@@ -239,7 +243,9 @@ module.exports = [
     "title": "Narcos",
     "imdb": "tt2707408",
     "stillWatching": 1,
-    "votes": ["ryanburgess"]
+    "votes": [
+      "ryanburgess"
+    ]
   },
   {
     "title": "Numb3rs",
@@ -249,6 +255,15 @@ module.exports = [
       "afronski"
     ],
     "wiki": "Numbers (TV series)"
+  },
+  {
+    "title": "Over the Garden Wall",
+    "imdb": "tt3718778",
+    "episodes": 0,
+    "stillWatching": 1,
+    "votes": [
+      "pongoman"
+    ]
   },
   {
     "title": "Oz",
@@ -476,7 +491,9 @@ module.exports = [
     "title": "Unbreakable Kimmy Schmidt",
     "imdb": "tt3339966",
     "stillWatching": 1,
-    "votes": ["ryanburgess"]
+    "votes": [
+      "ryanburgess"
+    ]
   },
   {
     "title": "Utopia",
@@ -526,4 +543,4 @@ module.exports = [
     ],
     "wiki": "Wilfred (U.S. TV series)"
   }
-];
+]
